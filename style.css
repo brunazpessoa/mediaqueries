@@ -1,4 +1,4 @@
-/* Estilos gerais */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -43,7 +43,7 @@ body {
     height: auto;
   }
   
-  /* Estilos para o texto responsivo */
+  /* texto responsivo */
   .content p {
     column-count: 1;
     column-gap: 20px;
