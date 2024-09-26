@@ -136,7 +136,7 @@ Isso garante que as imagens sejam exibidas de forma agradável e organizada em q
 - **Modo Retrato (portrait):** O conteúdo aparece em uma única coluna.
 - **Modo Paisagem (landscape):** O conteúdo é exibido em duas colunas, para aproveitar melhor o espaço na tela.
 
-##**Conclusão**
+## **Conclusão**
 As media queries são uma ferramenta poderosa no CSS que permitem que você crie páginas da web que se adaptam a diferentes dispositivos e situações. Seja mudando a forma como o conteúdo é exibido em dispositivos móveis, ajustando o layout para impressão, ou adaptando o site a diferentes orientações de tela, as media queries ajudam a garantir que seu site fique sempre agradável e fácil de usar, independentemente do dispositivo que seu visitante estiver utilizando.
 
 
