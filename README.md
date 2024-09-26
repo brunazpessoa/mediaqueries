@@ -1,4 +1,10 @@
 # Media Queries
+<p align="center"> Tópicos</p>
+<p align="center">
+ <a>O que são Media Queries</a> •
+ <a>Como Funcionam as Media Queries</a> • 
+ <a>Conclusão</a> •
+</p>
 
 ## O que são Media Queries?
 Imagine que você está construindo um site e quer garantir que ele fique bonito e fácil de usar em qualquer dispositivo: um computador (desktop), um tablet ou um celular. O problema é que as telas desses dispositivos têm tamanhos e orientações diferentes, então o que fica bom em uma tela grande pode não funcionar tão bem em uma tela pequena.
@@ -139,4 +145,12 @@ Isso garante que as imagens sejam exibidas de forma agradável e organizada em q
 ## **Conclusão**
 As media queries são uma ferramenta poderosa no CSS que permitem que você crie páginas da web que se adaptam a diferentes dispositivos e situações. Seja mudando a forma como o conteúdo é exibido em dispositivos móveis, ajustando o layout para impressão, ou adaptando o site a diferentes orientações de tela, as media queries ajudam a garantir que seu site fique sempre agradável e fácil de usar, independentemente do dispositivo que seu visitante estiver utilizando.
 
+### :family: Integrantes do Projeto
 
+
+| ![Yasmin Mendes](https://avatars.githubusercontent.com/u/178385852?v=4) <br> <sub> Yasmin Mendes </sub> | ![Bruna Zakaib](https://avatars.githubusercontent.com/u/130071892?v=4) <br> <sub> Bruna Zakaib </sub> | ![Isabela Realli](https://avatars.githubusercontent.com/u/180230011?v=4) <br> <sub> Isabela Realli </sub> | ![Beatriz Soares](https://avatars.githubusercontent.com/u/180229545?v=4) <br> <sub> Beatriz Soares </sub> |
+| --- | --- | --- | --- |
+| [Yasmin Mendes](https://github.com/YasminMSouza) | [Bruna Zakaib](https://github.com/brunazpessoa) | [Isabela Realli](https://github.com/IsabelaReali) | [Beatriz Soares](https://github.com/Beatriz-sol) |
+
+Licença 📝
+Esse projeto está autorizado pelo MIT
